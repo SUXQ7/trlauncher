@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "5fed16a73997920760a3833bc6149888",
-  "notes": "Shows a progress window while updating, and fixes the relaunch collision that showed 'launcher is already running'."
+  "md5": "ad018b51157502dcdfa3ecdac2701d9c",
+  "notes": "Adds drifting light particles to the background."
 }
