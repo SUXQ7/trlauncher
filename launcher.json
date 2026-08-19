@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "ad018b51157502dcdfa3ecdac2701d9c",
-  "notes": "Adds drifting light particles to the background."
+  "md5": "8abfc6294b490c8633cc5dc4c9c2140d",
+  "notes": "Writes trlauncher.log for diagnosis, and no longer says 'Up to date' when the patch server could not be reached."
 }
