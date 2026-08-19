@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "27a033ded7a91dd407d3108cce037be1",
-  "notes": "New updating-launcher artwork."
+  "md5": "f41ce8e6aa4023f1a589458c6182ee34",
+  "notes": "Click a gallery slide to enlarge it. Background now drifts slowly and the particles glow in the interface colours."
 }
