@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "ddb751a1139d687ab9f84f991b43b0fc",
-  "notes": "News no longer sticks on 'Loading…' when a big download saturates the connection. Readable timestamps in trlauncher.log."
+  "md5": "27a033ded7a91dd407d3108cce037be1",
+  "notes": "New updating-launcher artwork."
 }
