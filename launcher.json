@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/SUXQ7/trlauncher/releases/download/v1.0.0/trlauncher.exe",
-  "md5": "968f02a1897b3993c2d2388afbe80987",
-  "notes": "First tracked release."
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
+  "md5": "86694cfa5fa0f4d9edeafcf46e9fa859",
+  "notes": "Fixes: compressed files (DLLs, .cfg, fonts) now download correctly; smoother progress bar."
 }
