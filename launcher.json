@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "86694cfa5fa0f4d9edeafcf46e9fa859",
-  "notes": "Fixes: compressed files (DLLs, .cfg, fonts) now download correctly; smoother progress bar."
+  "md5": "5fed16a73997920760a3833bc6149888",
+  "notes": "Shows a progress window while updating, and fixes the relaunch collision that showed 'launcher is already running'."
 }
