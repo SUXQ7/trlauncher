@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "32fd6996068352bc54b4de6d896c1820",
-  "notes": "Tries HTTPS before HTTP with retries, so players whose network times out on plain HTTP can still patch. Update screen is now centred artwork."
+  "md5": "ddb751a1139d687ab9f84f991b43b0fc",
+  "notes": "News no longer sticks on 'Loading…' when a big download saturates the connection. Readable timestamps in trlauncher.log."
 }
