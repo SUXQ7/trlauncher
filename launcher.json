@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "faa4b2315a7eb245f46626ccc15c09de",
-  "notes": "Custom pixel-art cursors: arrow, open hand over anything clickable, closed hand while pressing."
+  "md5": "98408ce6ef9049eb4791f3aca986e3ea",
+  "notes": "Custom cursor now covers the title bar and news links, which were still showing the system pointer."
 }
