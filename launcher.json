@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "7b7c4491e753b961b9ff8ec1b99cc230",
-  "notes": "Maintenance screen no longer draws seams at the window edges, the close and minimise buttons stay usable, and the browser context menu and shortcuts are disabled."
+  "md5": "8d1e01f9cb4a32700c39317780ea553f",
+  "notes": "Rounded corners on the enlarged-slide and maintenance screens, and a jester runner game to play while the server is down."
 }
