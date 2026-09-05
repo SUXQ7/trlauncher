@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "10524800dab0c29e94c9310ce5ff67b9",
-  "notes": "One arrow cursor everywhere — no more hand, and no gaps where the system pointer showed through."
+  "md5": "1d0191eeb56decc55c358556eb97e7c4",
+  "notes": "New /announce slides now appear without restarting the launcher."
 }
