@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "c924ecfe561d230d2f84bd5572572260",
-  "notes": "Removed the mini-game from the maintenance screen."
+  "md5": "37a24c0c4579bbc65e9407b976a22761",
+  "notes": "The update screen is now transparent, with the jester animating and the dots cycling."
 }
