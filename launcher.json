@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "bae6c98d3c8aef324ceeabd8c6cc64e0",
-  "notes": "Maintenance mode: admins can put the launcher into maintenance from Discord with /launcher."
+  "md5": "7b7c4491e753b961b9ff8ec1b99cc230",
+  "notes": "Maintenance screen no longer draws seams at the window edges, the close and minimise buttons stay usable, and the browser context menu and shortcuts are disabled."
 }
