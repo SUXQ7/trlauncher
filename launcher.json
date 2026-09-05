@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "1d0191eeb56decc55c358556eb97e7c4",
-  "notes": "New /announce slides now appear without restarting the launcher."
+  "md5": "bae6c98d3c8aef324ceeabd8c6cc64e0",
+  "notes": "Maintenance mode: admins can put the launcher into maintenance from Discord with /launcher."
 }
