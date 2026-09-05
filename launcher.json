@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "8d1e01f9cb4a32700c39317780ea553f",
-  "notes": "Rounded corners on the enlarged-slide and maintenance screens, and a jester runner game to play while the server is down."
+  "md5": "ea5f5f58ebcc555a3d8e4886041c3b42",
+  "notes": "The update screen now plays the animated jester instead of a still image."
 }
