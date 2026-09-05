@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "92b055bbd77a32526a8c78c50a01a530",
-  "notes": "Maintenance text reads SERVER UNDER MAINTENANCE with cycling dots and a warm glow."
+  "md5": "15c8b7bcd46f3ebd374e3ded16f8dd3e",
+  "notes": "Maintenance dots now actually cycle one at a time."
 }
