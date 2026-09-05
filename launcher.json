@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "37a24c0c4579bbc65e9407b976a22761",
-  "notes": "The update screen is now transparent, with the jester animating and the dots cycling."
+  "md5": "92b055bbd77a32526a8c78c50a01a530",
+  "notes": "Maintenance text reads SERVER UNDER MAINTENANCE with cycling dots and a warm glow."
 }
