@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "ea5f5f58ebcc555a3d8e4886041c3b42",
-  "notes": "The update screen now plays the animated jester instead of a still image."
+  "md5": "c924ecfe561d230d2f84bd5572572260",
+  "notes": "Removed the mini-game from the maintenance screen."
 }
