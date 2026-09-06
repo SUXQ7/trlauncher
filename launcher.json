@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "14816e96ab056625badcbc4e642d9751",
-  "notes": "The runner now spans the bottom of the launcher with no panel around it, and the obstacles animate more slowly."
+  "md5": "f676727cee0be7190c2e3af31dd52caf",
+  "notes": "Removed the maintenance mini-game. The dots now start empty and count up at 2 fps."
 }
