@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
+  "version": "1.3.0",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "15c8b7bcd46f3ebd374e3ded16f8dd3e",
-  "notes": "Maintenance dots now actually cycle one at a time."
+  "md5": "9d48ae5adfcb6daa3044a441df396d75",
+  "notes": "The maintenance screen has a runner game again, now with the proper jester run cycle, scrolling ground and three animated obstacles."
 }
