@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "f676727cee0be7190c2e3af31dd52caf",
-  "notes": "Removed the maintenance mini-game. The dots now start empty and count up at 2 fps."
+  "md5": "c9755675336f4d9d9555adfce2ec54c0",
+  "notes": "New startup animation - the winged shoe flies in and settles, 179 frames at 40fps."
 }
