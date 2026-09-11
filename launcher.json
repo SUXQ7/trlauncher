@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.4",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "c9755675336f4d9d9555adfce2ec54c0",
-  "notes": "New startup animation - the winged shoe flies in and settles, 179 frames at 40fps."
+  "md5": "620a68ba2d6f8c647f445a8d55995342",
+  "notes": "The update check now names the file it is verifying under the bar."
 }
