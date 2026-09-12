@@ -1,6 +1,6 @@
 {
-  "version": "1.3.5",
+  "version": "1.3.6",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "c599883694bec3f20e7a4ce56bfa603d",
-  "notes": "Large downloads no longer time out on slower connections, resume where they left off, and retry instead of locking the Start button."
+  "md5": "c0ed494e27c239b0f2b3faf131f75281",
+  "notes": "Downloads now run four at a time and are much faster. Adds a Verify and repair button, rebuilds EasyAntiCheat after a fresh install, and installs the anti-cheat service when it is missing."
 }
