@@ -1,6 +1,6 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.7",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "c0ed494e27c239b0f2b3faf131f75281",
-  "notes": "Downloads now run four at a time and are much faster. Adds a Verify and repair button, rebuilds EasyAntiCheat after a fresh install, and installs the anti-cheat service when it is missing."
+  "md5": "d703bcc72f7d99ee08df430916e6520b",
+  "notes": "Fixes the square corners on the check and repair panel, and greys out the gear while files are downloading."
 }
