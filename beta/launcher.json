@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "46728c4e4694f43a11c4ea67ab5147df",
-  "notes": "New look: Prisma night theme with a glowing sign-in screen and new Start / Sign in buttons."
+  "md5": "b07f28edb68ddf7075f203e198099adf",
+  "notes": "New look: Prisma night theme. 1.5.1 removes the glow around the sign-in window."
 }
