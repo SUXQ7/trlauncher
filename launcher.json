@@ -1,6 +1,6 @@
 {
-  "version": "1.4.8",
+  "version": "1.4.9",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "734632af025b8334696a61bf69e80cb7",
-  "notes": "Check & Repair no longer reports a missing anti-cheat on this client."
+  "md5": "ecbd634f655c2b2e8a923e232173c184",
+  "notes": "Patching is more reliable: the launcher can no longer be given an out-of-date copy of a game file."
 }
