@@ -1,6 +1,6 @@
 {
-  "version": "1.3.7",
-  "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "d703bcc72f7d99ee08df430916e6520b",
-  "notes": "Fixes the square corners on the check and repair panel, and greys out the gear while files are downloading."
+  "version": "1.4.6",
+  "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
+  "md5": "2cd22b69686edb33065126965d27ccd5",
+  "notes": "The account panel and window buttons no longer stay on screen while the game is starting."
 }
