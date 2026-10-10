@@ -1,6 +1,6 @@
 {
-  "version": "1.4.9",
+  "version": "1.5.0",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "ecbd634f655c2b2e8a923e232173c184",
-  "notes": "Patching is more reliable: the launcher can no longer be given an out-of-date copy of a game file."
+  "md5": "46728c4e4694f43a11c4ea67ab5147df",
+  "notes": "New look: Prisma night theme with a glowing sign-in screen and new Start / Sign in buttons."
 }
