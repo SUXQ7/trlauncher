@@ -1,6 +1,6 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "4e5f77407699298ad6598cf16a8b39ed",
-  "notes": "Calmer main screen with a glassy progress bar, Play and Sign in buttons; the colours now move."
+  "md5": "1e6c943c622343d7bedc0fbc66842d03",
+  "notes": "Glass look with the purple panels back; buttons and bar show cyan, violet and pink together."
 }
