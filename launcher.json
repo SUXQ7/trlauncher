@@ -1,6 +1,6 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.8",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "2cfd698b2f81fd0da287329609fa76ed",
-  "notes": "News list without the dashed lines between items."
+  "md5": "2901f13cb8098b5eb36683bca0efe02f",
+  "notes": "News list: one solid thin line between items instead of dashes."
 }
