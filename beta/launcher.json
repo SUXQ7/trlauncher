@@ -1,6 +1,6 @@
 {
-  "version": "1.5.4",
+  "version": "1.5.5",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "2c5603d5c0dc2f660f8dca61b4d413d9",
-  "notes": "Purple look restored, no outlines around News and the patch box, matching Sign in / Play / progress colours."
+  "md5": "2585ce4bc6ecce5f92e93a4368f5e5e2",
+  "notes": "Glassy Start and Sign in buttons in violet-to-pink, with a matching progress bar."
 }
