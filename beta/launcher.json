@@ -1,6 +1,6 @@
 {
-  "version": "1.5.9",
+  "version": "1.5.10",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "0cf2648c64b9d1573f6a2af47a2efa92",
-  "notes": "The launcher no longer asks for administrator rights at start; it asks only if the game folder needs it."
+  "md5": "e92051c564840fab3372d76197be521a",
+  "notes": "The installer's setup files are removed automatically after a completed install."
 }
