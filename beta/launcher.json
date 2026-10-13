@@ -1,6 +1,6 @@
 {
-  "version": "1.5.8",
+  "version": "1.5.9",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "2901f13cb8098b5eb36683bca0efe02f",
-  "notes": "News list: one solid thin line between items instead of dashes."
+  "md5": "0cf2648c64b9d1573f6a2af47a2efa92",
+  "notes": "The launcher no longer asks for administrator rights at start; it asks only if the game folder needs it."
 }
