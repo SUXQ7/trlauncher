@@ -1,6 +1,6 @@
 {
-  "version": "1.5.11",
+  "version": "1.5.12",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "f37c2df67394ed62c1ef09af705396c7",
-  "notes": "Easy Anti-Cheat: the game now starts through EAC. Talesbook Trade (wishlists, offers, privacy)."
+  "md5": "8fd420c0571176a9181640c7ea16be4e",
+  "notes": "Easy Anti-Cheat works on the first start after the update. Talesbook Trade."
 }
