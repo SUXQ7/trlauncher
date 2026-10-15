@@ -1,6 +1,6 @@
 {
-  "version": "1.5.14",
+  "version": "1.5.15",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "9addb88ded2354fe4ffd0207208736fe",
-  "notes": "Fixes updates getting stuck on version.dll (file in use). Easy Anti-Cheat + Talesbook Trade."
+  "md5": "e44e188528c4423a8413457fd7f7c66d",
+  "notes": "Repair no longer reports a missing EAC language file. Updates no longer get stuck on version.dll."
 }
