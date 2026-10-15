@@ -1,6 +1,6 @@
 {
-  "version": "1.5.10",
+  "version": "1.5.11",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "e92051c564840fab3372d76197be521a",
-  "notes": "The installer's setup files are removed automatically after a completed install."
+  "md5": "f37c2df67394ed62c1ef09af705396c7",
+  "notes": "Easy Anti-Cheat: the game now starts through EAC. Talesbook Trade (wishlists, offers, privacy)."
 }
