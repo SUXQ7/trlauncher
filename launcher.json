@@ -1,6 +1,6 @@
 {
-  "version": "1.5.13",
+  "version": "1.5.14",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "56cfb8def5db299fb59e6e15535575c2",
-  "notes": "Removes old XIGNCODE files. Easy Anti-Cheat + Talesbook Trade."
+  "md5": "9addb88ded2354fe4ffd0207208736fe",
+  "notes": "Fixes updates getting stuck on version.dll (file in use). Easy Anti-Cheat + Talesbook Trade."
 }
