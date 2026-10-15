@@ -1,6 +1,6 @@
 {
-  "version": "1.5.15",
+  "version": "1.5.16",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "e44e188528c4423a8413457fd7f7c66d",
-  "notes": "Repair no longer reports a missing EAC language file. Updates no longer get stuck on version.dll."
+  "md5": "fc9446941286ca2d795529bcc6f6c6cf",
+  "notes": "The X button closes the launcher completely again. Updates no longer get stuck on version.dll."
 }
