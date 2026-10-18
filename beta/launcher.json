@@ -1,6 +1,6 @@
 {
-  "version": "1.5.20",
+  "version": "1.5.21",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "7ce1fcae78680941265ee849d54b9a81",
-  "notes": "New sign-in screen with a full-page animation and a frosted panel, the Global TalesRunner seal across the launcher, and the original Webstore, Support and Discord buttons back. Download is about a third smaller."
+  "md5": "b642b1aac640846407ca83171d02e3be",
+  "notes": "The sign-in wait is shorter, and the loading screen carries three Global TalesRunner seals."
 }
