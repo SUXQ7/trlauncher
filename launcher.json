@@ -1,6 +1,6 @@
 {
-  "version": "1.5.16",
+  "version": "1.5.17",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "fc9446941286ca2d795529bcc6f6c6cf",
-  "notes": "The X button closes the launcher completely again. Updates no longer get stuck on version.dll."
+  "md5": "7dda7e162ba8887b8008ec8f5a46eac1",
+  "notes": "New loading animation and a new Easy Anti-Cheat notice."
 }
