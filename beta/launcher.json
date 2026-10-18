@@ -1,6 +1,6 @@
 {
-  "version": "1.5.21",
+  "version": "1.5.22",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "b642b1aac640846407ca83171d02e3be",
-  "notes": "The sign-in wait is shorter, and the loading screen carries three Global TalesRunner seals."
+  "md5": "ffabc6e0bc93f66efd5ae30a37ef75b3",
+  "notes": "The sign-in box is sized to its contents and centred, so the empty gap above \"Need help?\" is gone."
 }
