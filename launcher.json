@@ -1,6 +1,6 @@
 {
-  "version": "1.3.7",
+  "version": "1.5.19",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/trlauncher.exe",
-  "md5": "d703bcc72f7d99ee08df430916e6520b",
-  "notes": "Fixes the square corners on the check and repair panel, and greys out the gear while files are downloading."
+  "md5": "10f1ab053978d2055d448fdc9c9993cc",
+  "notes": "New sign-in screen with a full-page animation, the house seal across the launcher, and the original side buttons back. Download is about half the size."
 }
