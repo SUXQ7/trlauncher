@@ -1,6 +1,6 @@
 {
-  "version": "1.5.18",
+  "version": "1.5.19",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "48fdc208d3513e26f3c34a53d643cdb5",
-  "notes": "Launcher loading animation back to normal. Keeps the new Easy Anti-Cheat notice."
+  "md5": "c80b7cf084f5b4da1c3b7e233b10c2af",
+  "notes": "Fixes the update prompt repeating after updating. Keeps the new Easy Anti-Cheat notice."
 }
