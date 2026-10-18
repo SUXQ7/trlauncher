@@ -1,6 +1,6 @@
 {
-  "version": "1.5.17",
+  "version": "1.5.18",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "7dda7e162ba8887b8008ec8f5a46eac1",
-  "notes": "New loading animation and a new Easy Anti-Cheat notice."
+  "md5": "48fdc208d3513e26f3c34a53d643cdb5",
+  "notes": "Launcher loading animation back to normal. Keeps the new Easy Anti-Cheat notice."
 }
