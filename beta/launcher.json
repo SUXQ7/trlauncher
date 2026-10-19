@@ -1,6 +1,6 @@
 {
-  "version": "1.5.25",
+  "version": "1.5.26",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "0c62f2700b48c59a84157e30446bec06",
-  "notes": "If the game is already running, Play now simply closes the launcher."
+  "md5": "1c72e7e7aa6c7650c0994afa9c050aa8",
+  "notes": "The house seals turn again on PCs with Windows animation effects off."
 }
