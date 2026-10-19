@@ -1,6 +1,6 @@
 {
-  "version": "1.5.22",
+  "version": "1.5.23",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "ffabc6e0bc93f66efd5ae30a37ef75b3",
-  "notes": "The sign-in box is sized to its contents and centred, so the empty gap above \"Need help?\" is gone."
+  "md5": "997303a877a5fd658a5f7d08ac9e80a7",
+  "notes": "Sign-in now uses a secure HTTPS connection."
 }
