@@ -1,6 +1,6 @@
 {
-  "version": "1.5.24",
+  "version": "1.5.25",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "68a13d005624ae72dc02555cc3c11d64",
-  "notes": "Faster game downloads (new download server)."
+  "md5": "0c62f2700b48c59a84157e30446bec06",
+  "notes": "If the game is already running, Play now simply closes the launcher."
 }
