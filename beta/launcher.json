@@ -1,6 +1,6 @@
 {
-  "version": "1.5.26",
+  "version": "1.5.27",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "1c72e7e7aa6c7650c0994afa9c050aa8",
-  "notes": "The house seals turn again on PCs with Windows animation effects off."
+  "md5": "0a4fdf0ec05563a1df7ea75aa4e58261",
+  "notes": "Play no longer asks for administrator rights."
 }
