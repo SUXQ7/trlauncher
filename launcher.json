@@ -1,6 +1,6 @@
 {
-  "version": "1.5.29",
+  "version": "1.5.30",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "d7741640f33aebf6eed6c70c5cf2e499",
-  "notes": "New news panel: news from R2 with badges, dates, colours and pictures."
+  "md5": "02f3955a99100b053db0c7815f81bcb6",
+  "notes": "Anti-cheat: installs itself when missing (on every launcher start), and Repair works even when the EAC setup file is missing."
 }
