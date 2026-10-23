@@ -1,6 +1,6 @@
 {
-  "version": "1.5.30",
+  "version": "1.5.31",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "02f3955a99100b053db0c7815f81bcb6",
-  "notes": "Anti-cheat: installs itself when missing (on every launcher start), and Repair works even when the EAC setup file is missing."
+  "md5": "0c76c87713ae7a3e8c5112c3304126a3",
+  "notes": "Anti-cheat: also registers this game when another game already installed Easy Anti-Cheat (fixes \"Easy Anti-Cheat is not installed\"); Repair always re-registers it."
 }
