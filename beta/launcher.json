@@ -1,6 +1,6 @@
 {
-  "version": "1.5.32",
+  "version": "1.5.33",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "e1088243e1bf21677b50be17985d299a",
-  "notes": "Install anywhere: Desktop, Downloads or any folder on C: works now. Only Windows, Program Files and temp folders are refused - with a button that moves the launcher to C:\\Global TalesRunner."
+  "md5": "b3e550bfe7b858bd6efe16497ab24c0a",
+  "notes": "Install anywhere (Desktop, Downloads, any folder on C:). Fixes the 1.5.32 antivirus false alarm."
 }
