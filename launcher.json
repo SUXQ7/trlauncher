@@ -1,6 +1,6 @@
 {
-  "version": "1.5.31",
+  "version": "1.5.32",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "0c76c87713ae7a3e8c5112c3304126a3",
-  "notes": "Anti-cheat: also registers this game when another game already installed Easy Anti-Cheat (fixes \"Easy Anti-Cheat is not installed\"); Repair always re-registers it."
+  "md5": "e1088243e1bf21677b50be17985d299a",
+  "notes": "Install anywhere: Desktop, Downloads or any folder on C: works now. Only Windows, Program Files and temp folders are refused - with a button that moves the launcher to C:\\Global TalesRunner."
 }
