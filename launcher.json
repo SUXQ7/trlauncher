@@ -1,6 +1,6 @@
 {
-  "version": "1.5.34",
+  "version": "1.5.35",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "9dad4ad4693ff854cf2480072a6a8628",
-  "notes": "Profile: the #rank number is gone when you have no top-99 badge (icon, level and name only)."
+  "md5": "7dc41003d4859a24cf45cbfef2458d82",
+  "notes": "Faster downloads: 6 files at once, big files in 4 parts. The bar shows what is really downloaded, not full package sizes."
 }
