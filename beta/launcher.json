@@ -1,6 +1,6 @@
 {
-  "version": "1.5.35",
+  "version": "1.5.36",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "7dc41003d4859a24cf45cbfef2458d82",
-  "notes": "Faster downloads: 6 files at once, big files in 4 parts. The bar shows what is really downloaded, not full package sizes."
+  "md5": "36fc5b8a1973f54685f0bef57faa2bf0",
+  "notes": "Updates now always download from our main patch server."
 }
