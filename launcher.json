@@ -1,6 +1,6 @@
 {
-  "version": "1.5.36",
+  "version": "1.5.37",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "36fc5b8a1973f54685f0bef57faa2bf0",
-  "notes": "Updates now always download from our main patch server."
+  "md5": "07fe8fec6e44c571ac2243fd52036201",
+  "notes": "Security enhancements."
 }
