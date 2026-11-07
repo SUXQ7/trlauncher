@@ -1,6 +1,6 @@
 {
-  "version": "1.5.39",
+  "version": "1.5.40",
   "url": "https://raw.githubusercontent.com/SUXQ7/trlauncher/main/beta/GTRlauncher.exe",
-  "md5": "1c5174d671ae4d8d44c4835a4c2da0d1",
-  "notes": "Updated Apollo picture."
+  "md5": "5c040a870530e5b4cd3f4a4ce91236d7",
+  "notes": "New Lite launcher: opens by itself on Linux / Steam Deck (Proton) and on PCs without Edge WebView2."
 }
